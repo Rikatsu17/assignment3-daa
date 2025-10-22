@@ -3,4 +3,6 @@
 Adilbekov Daniyal SE-2435
 
 *This assignment is about implementing two algorithms
-Prim and Kruskal.
+Prim and Kruskal, tests and results in graphs.
+
+Prim algorithm is 
