@@ -1,3 +1,6 @@
+**Adilbekov Daniyal SE-2435**
+<br>Design and analysis algorithms
+
 # Assignment 3: Optimization of a City Transportation Network
 (Minimum Spanning Tree)<br>
 This repository contains the solution for Assignment 3, which focuses on optimizing a city's transportation network using Minimum Spanning Tree (MST) algorithms.
@@ -13,8 +16,8 @@ mst-assignment/
 │   │   ├── Main.java             
 │   │   ├── Graph.java             
 │   │   ├── Edge.java          
-│   │   ├── PrimAlgorithm.java     
-│   │   ├── KruskalAlgorithm.java  
+│   │   ├── Prim.java     
+│   │   ├── Kruskal.java  
 │   │   ├── MSTResult.java    
 │   │   ├── DisjointSet.java      
 │   │   └── IOUtils.java      
