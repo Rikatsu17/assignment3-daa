@@ -66,8 +66,8 @@ mst-assignment/
 ### Key Findings
 
  **Both algorithms produce identical MST costs** (correctness verified)  
-⚡ **Prim's Algorithm**: Faster on small-medium dense graphs (Graphs 1-4)  
-⚡ **Kruskal's Algorithm**: Faster on large sparse graphs (Graph 5)  
+ **Prim's Algorithm**: Faster on small-medium dense graphs (Graphs 1-4)  
+ **Kruskal's Algorithm**: Faster on large sparse graphs (Graph 5)  
  **Prim performs 2× fewer operations** across all graph sizes
 
 ##  Algorithm Comparison
